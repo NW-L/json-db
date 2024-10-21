@@ -405,14 +405,7 @@
     "name": "Cardiac Pacemaker",
     "imgDisplay": false,
     "imgSrc": "",
-    "description": ["Cardiac Pacemaker", "植入式心臟除顫器"],
-    "color": "rgb(246,152,30)"
-  },
-  {
-    "name": "Cardiac Pacemaker",
-    "imgDisplay": false,
-    "imgSrc": "",
-    "description": ["Cardiac Pacemaker", "心臟起搏器", "植入式心臟除顫器"],
+    "description": ["Cardiac Pacemaker", "心臟起搏器"],
     "color": "rgb(246,152,30)"
   },
   {
