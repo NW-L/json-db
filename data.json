@@ -1,0 +1,1278 @@
+[
+  {
+    "name": "MED",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["MED"],
+    "color": "rgb(222,236,243)"
+  },
+  {
+    "name": "Allergy",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["藥物不良反應"],
+    "color": "rgb(235,70,61)"
+  },
+  {
+    "name": "NPOEM",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["NPOEM", "不準飲食（藥物除外）"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Contact Precaution",
+    "imgDisplay": true,
+    "imgSrc": "./icon/Contact.png",
+    "description": ["Contact Precautions", "接觸傳播防護措施"],
+    "color": "rgb(253,255,90)"
+  },
+  {
+    "name": "RESP",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["RESP"],
+    "color": "rgb(222,236,243)"
+  },
+  {
+    "name": "正餐",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["正餐"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "GI",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["GI"],
+    "color": "rgb(222,236,243)"
+  },
+  {
+    "name": "微量飲水",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Sips of Water", "微量飲水"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "CARDIAC",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Cardiac Pacemaker", "心臟起搏器"],
+    "color": "rgb(222,236,243)"
+  },
+  {
+    "name": "NPO",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["NPO"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "離床坐椅",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["離床坐椅"],
+    "color": "rgb(172,185,231)"
+  },
+  {
+    "name": "限水 (1000 ml)",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["限水每天", "1000毫升"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Droplet Precaution",
+    "imgDisplay": true,
+    "imgSrc": "./icon/Droplet.png",
+    "description": ["Droplet Precaution", "飛沫傳播防護措施"],
+    "color": "rgb(253,255,90)"
+  },
+  {
+    "name": "Airborne Precaution",
+    "imgDisplay": true,
+    "imgSrc": "./icon/Airborne.png",
+    "description": ["Airborne Precaution", "空氣傳播防護措施"],
+    "color": "rgb(253,255,90)"
+  },
+  {
+    "name": "Urine Specimen",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Save Urine Specimen", "留小便化驗"],
+    "color": "rgb(247,207,252)"
+  },
+  {
+    "name": "Stool Specimen",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Save Stool Specimen", "留大便化驗"],
+    "color": "rgb(247,207,252)"
+  },
+  {
+    "name": "Fall Risk",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Fall Risk", "慎防跌倒"],
+    "color": "rgb(109,176,52)"
+  },
+  {
+    "name": "Preventive Restraint",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Preventive Restraint", "保護性約束"],
+    "color": "rgb(222,236,243)"
+  },
+  {
+    "name": "右耳聽力不佳",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["右耳聽力不佳"],
+    "color": "rgb(232,233,228)"
+  },
+  {
+    "name": "左耳聽力不佳",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["左耳聽力不佳"],
+    "color": "rgb(232,233,228)"
+  },
+  {
+    "name": "出入量紀錄",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["出入量紀錄"],
+    "color": "rgb(218,193,191)"
+  },
+  {
+    "name": "軟餐",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["軟餐"],
+    "color": "rgb(234,218,215)"
+  },
+  {
+    "name": "CRS",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["CRS"],
+    "color": "rgb(195,197,189)"
+  },
+  {
+    "name": "Complete Removable Denture",
+    "imgDisplay": true,
+    "imgSrc": "./icon/CompleteRemovableDenture.png",
+    "description": ["Complete Removable Denture", "全口活動假牙"],
+    "color": "rgb(162,217,204)"
+  },
+  {
+    "name": "肥皂洗手",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["接觸病人後", "用肥皂洗手"],
+    "color": "rgb(164,235,252)"
+  },
+  {
+    "name": "凝固粉 (per ____ml)",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["每 ____ml流質加", "2匙凝固粉"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "凝固粉 (per 100ml)",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["每100ml流質加", "2匙凝固粉"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "凝固粉 (per 200ml)",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["每200ml流質加", "2匙凝固粉"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Low Salt Diet",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["DM ____ kcal", "Low Salt Diet"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "切絲餐",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["切絲餐"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "D糊餐",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["D糊餐"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "NG Tube Feeding__ml",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["NG Tube Feeding", "Ultracal ____ml x__ x___"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "NG Tube Feeding",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["NG Tube Feeding", "鼻胃管飼流質"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "DAT",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["DAT"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Oxygen",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["0-4L O2 PRN", "Keep SpO2 > 94%"],
+    "color": "rgb(219,238,244)"
+  },
+  {
+    "name": "Alert",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Alert"],
+    "color": "rgb(235,70,61)"
+  },
+
+  {
+    "name": "Drug Allergy",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Drug Allergy", "藥物敏感"],
+    "color": "rgb(235,70,61)"
+  },
+  {
+    "name": "Food Allergy",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Food Allergy", "食物敏感"],
+    "color": "rgb(235,70,61)"
+  },
+  {
+    "name": "Drug & Food Allergy",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Food Allergy", "藥物及食物敏感"],
+    "color": "rgb(235,70,61)"
+  },
+  {
+    "name": "ADVERSE DRUG REACTION",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["ADVERSE DRUG REACTION", "藥物不良反應"],
+    "color": "rgb(235,70,61)"
+  },
+  {
+    "name": "Component Allergy",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Component Allergy", "成份敏感"],
+    "color": "rgb(235,70,61)"
+  },
+  {
+    "name": "ALLERGY to",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["ALLERGY to", ""],
+    "color": "rgb(235,70,61)"
+  },
+  {
+    "name": "G6PD deficiency",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["G6PD deficiency", "G6PD 缺乏症"],
+    "color": "rgb(235,70,61)"
+  },
+  {
+    "name": "SP",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["SP"],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "Same or Similar_Names of patient",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Same or Similar_Names",
+      "of patient",
+      "相同或相緊",
+      "_姓名"
+    ],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "No IMI_Puncture",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["No IMI_Puncture", "不準", "肌肉注射"],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "No Arterial_Puncture",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["No Arterial_Puncture", "不準", "動脈注射"],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "No Femoral_Puncture",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["No Femoral_Puncture", "不準", "股動靜脈注射"],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "No BP and Blood Taking on: Right_Arm",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "No BP and Blood Taking on:",
+      "Right_Arm",
+      "不可量血壓及抽血：",
+      "右_手"
+    ],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "No BP and Blood Taking on: Left_Arm",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "No BP and Blood Taking on:",
+      "Left_Arm",
+      "不可量血壓及抽血：",
+      "左_手"
+    ],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "No BP/Blood Taking/Set HB on Left leg_",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "No BP/Blood Taking/Set HB",
+      "on Left leg_",
+      "不可在左腳_",
+      "量血壓/抽血或接種靜脈導管"
+    ],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "No BP/Blood Taking/Set HB on Right leg_",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "No BP/Blood Taking/Set HB",
+      "on Right leg_",
+      "不可在右腳_",
+      "量血壓/抽血或接種靜脈導管"
+    ],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "Telemetry in Use Channel No.:",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Telemetry in Use",
+      "Channel No.:",
+      "心律機使用中",
+      "頻道："
+    ],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "Cardiac Pacemaker",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Cardiac Pacemaker", "心臟起搏器"],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "Implantable Cardioverter Defibrillator",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Implantable Cardioverter Defibrillator",
+      "植入式心臟除顫器"
+    ],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "No Abdominal Examinations",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["No Abdominal Examinations", "不可進行腹部檢查"],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "Beware of Drains",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Beware of Drains", "小心注意引流"],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "High Aspiration Risk",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["High Aspiration Risk", "提防哽塞"],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "Keep INR </=",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Keep INR </=", ""],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "Keep INR >/=",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Keep INR >/=", ""],
+    "color": "rgb(246,152,30)"
+  },
+  {
+    "name": "Reverse Isolation",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Reverse", "Isolation", "保護性", "隔離護理"],
+    "color": "rgb(253,255,90)"
+  },
+  {
+    "name": "Hand washing with soap",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Hand washing",
+      "with soap",
+      "接觸病人後",
+      "請用肥皂水洗手"
+    ],
+    "color": "rgb(253,255,90)"
+  },
+  {
+    "name": "End Tracheostomy",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["End", "Tracheostomy", "永久性", "氣管造口術"],
+    "color": "rgb(164,235,252)"
+  },
+  {
+    "name": "Temporary Tracheostomy",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["End", "Tracheostomy", "永久性", "氣管造口術"],
+    "color": "rgb(164,235,252)"
+  },
+  {
+    "name": "Deflated Cuff Tracheostomy Tube cuff ( End )",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Deflated Cuff", "Tracheostomy Tube cuff", "( End )", ""],
+    "color": "rgb(164,235,252)"
+  },
+  {
+    "name": "Deflated Cuff Tracheostomy Tube cuff ( Temporary )",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Deflated Cuff",
+      "Tracheostomy Tube cuff",
+      "( Temporary )",
+      ""
+    ],
+    "color": "rgb(164,235,252)"
+  },
+  {
+    "name": "O2",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "O2 __[1]__ L/min",
+      "Keep SpO2 >/= __[2]__%",
+      "氧氣 __[1]__ L/min",
+      "維持血液含氧量大於 __[2]__%"
+    ],
+    "color": "rgb(222,236,243)"
+  },
+  {
+    "name": "O2mask",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "O2 Mask __[1]__ L/min",
+      "Keep SpO2 >/= __[2]__ %",
+      "氧氣罩 __[1]__ L/min",
+      "維持血液含氧量大於 __[2]__ %"
+    ],
+    "color": "rgb(222,236,243)"
+  },
+  {
+    "name": "O2__-",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "O2 __[1]__ (__[2]__ - __[3]__)L/min",
+      "Keep SpO2 >/= __[4]__%",
+      "氧氣 __[1]__ (__[2]__ - __[3]__)L/min",
+      "維持血液含氧量大於 __[4]__%"
+    ],
+    "color": "rgb(222,236,243)"
+  },
+  {
+    "name": "O2mark-",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "O2 Mask __[1]__ (__[2]__ - __[3]__)L/min",
+      "Keep SpO2 >/= __[4]__%",
+      "氧氣罩 __[1]__ (__[2]__ - __[3]__)L/min",
+      "維持血液含氧量大於 __[4]__%"
+    ],
+    "color": "rgb(222,236,243)"
+  },
+  {
+    "name": "Nocturnal NIV",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Nocturnal", "NIV", "晚上用", "正壓呼吸機"],
+    "color": "rgb(222,236,243)"
+  },
+  {
+    "name": "Try CPAP",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Try CPAP",
+      "From ____ To ____",
+      "正壓呼吸",
+      "由 ____ 至 ____"
+    ],
+    "color": "rgb(222,236,243)"
+  },
+  {
+    "name": "High Fall Risk",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["High Fall Risk", "慎防跌倒"],
+    "color": "rgb(109,176,52)"
+  },
+  {
+    "name": "High Fracture Risk",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["High Fracture Risk", "慎防骨折"],
+    "color": "rgb(109,176,52)"
+  },
+  {
+    "name": "Protective Restraint",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Protective Restraint", "保護性約束"],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Complete Bed Rest",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Complete Bed Rest",
+      "From ____ To ____",
+      "絕對床上休息",
+      "由 ____ 至 ____"
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Bed Rest",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Bed Rest",
+      "From ____ To ____",
+      "床上休息",
+      "由 ____ 至 ____"
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Prop Up",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Prop Up", "", "坐起", ""],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Sit Out",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Sit Out", "坐出"],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Sit up in Bed",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Sit up in Bed", "坐在床上"],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Do Not Turn Left",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Do Not Turn Left", "不可向 左_轉"],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Do Not Turn Right",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Do Not Turn Right", "不可向 右_轉"],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Non Weight Bearing",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Non Weight", "Bearing", "不承重", ""],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Partial Weight Bearing",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Partial Weight", "Bearing", "部分承重", ""],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Full Weight Bearing",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Full Weight", "Bearing", "完全承重", ""],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Walk under supervision",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Walk under", "supervision", "需協助下術動", ""],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Lateral REcumbent left",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Lateral Recumbent", "Left_", "向左_側臥", ""],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Lateral REcumbent right",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Lateral Recumbent", "Right_", "向右_側臥", ""],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Prone Position",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Prone Position", "伏臥"],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Lie flat",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Lie flat", "平臥"],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Nil by Mouth",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Nil by Mouth", "不准飲食"],
+    "color": "rgb(234,218,215)"
+  },
+  {
+    "name": "Except Medication",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Nil by Mouth",
+      "Except Medication",
+      "不准飲食",
+      "藥物除外"
+    ],
+    "color": "rgb(234,218,215)"
+  },
+  {
+    "name": "Sips of Water",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "No Eating",
+      "Sips of Water ONLY",
+      "不准飲食",
+      "只可飲少量水"
+    ],
+    "color": "rgb(234,218,215)"
+  },
+  {
+    "name": "After Midnight",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Nil By Mouth", "After Midnight", "午夜後", "不准飲食"],
+    "color": "rgb(234,218,215)"
+  },
+  {
+    "name": "After Light breakfast",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Nil By Mouth",
+      "After Light breakfast",
+      "早餐後",
+      "不准飲食"
+    ],
+    "color": "rgb(234,218,215)"
+  },
+  {
+    "name": "After",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Nil By Mouth", "After ____", "不准飲食", "____後"],
+    "color": "rgb(234,218,215)"
+  },
+  {
+    "name": "Fasting Blood",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "No Eating or Drinking",
+      "Fasting Blood",
+      "不准飲食",
+      "抽空肚血"
+    ],
+    "color": "rgb(234,218,215)"
+  },
+  {
+    "name": "Investigation",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Nil By Mouth for", "Investigation", "不准飲食", "做檢查"],
+    "color": "rgb(234,218,215)"
+  },
+  {
+    "name": "Allow water till 6am",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "No Eating or Drinking",
+      "Allow Water till 6am",
+      "不准飲食",
+      "只可飲用清水至上午六時"
+    ],
+    "color": "rgb(234,218,215)"
+  },
+  {
+    "name": "Allow water till 9am",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "No Eating or Drinking",
+      "Allow Water till 9am",
+      "不准飲食",
+      "只可飲用清水至上午九時"
+    ],
+    "color": "rgb(234,218,215)"
+  },
+  {
+    "name": "Only water allowed till",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Only Water allowed",
+      "till ____ am",
+      "不准飲食",
+      "只可飲用清水至上午____時"
+    ],
+    "color": "rgb(234,218,215)"
+  },
+  {
+    "name": "Bread & Water till 7am",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "No Eating or Drinking",
+      "Allow Plain White Bread & Water till 7am",
+      "不准飲食",
+      "早上七時前可食用白麵包一片及飲清水"
+    ],
+    "color": "rgb(234,218,215)"
+  },
+  {
+    "name": "Strict I&O Chart",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Strict", "I&O Chart", "嚴謹出入量紀錄", ""],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Balance Intake and Output",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Balance Intake and Output", "平衡輸出入量"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Keep Positive I/O",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Keep Positive I/O", "正增長輸出入量"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Oral Intake",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Encourage", "Oral Intake", "鼓勵進食", ""],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Fluid Intake",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Encourage", "Fluid Intake", "鼓勵飲流質", ""],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Oral and Fluid Intake",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Encourage",
+      "Oral and Fluid Intake",
+      "鼓勵進食",
+      "鼓勵飲流質"
+    ],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Feeding under assistance",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Feeding", "under Assistance", "協助進食", ""],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Feeding under supervision",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Feeding", "under supervision", "在監察下飲食", ""],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Feeding under Assistance and supervision",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Feeding under",
+      "Assistance and supervision",
+      "協助進食",
+      "在監察下飲食"
+    ],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Isolate Diet",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Isolate Diet", "隔離餐"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Neutropenic Diet",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Neutropenic Diet", "清潔餐"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Regular Diet",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Regular Diet", "正餐"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Soft Diet",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Soft Diet", "軟餐"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Congee Diet",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Congee Diet", "免治餐"],
+    "color": "rgb(247,206,205)"
+  },
+  {
+    "name": "Daily Body Weight",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Daily Body", "Weight", "每日磅重", ""],
+    "color": "rgb(247,207,252)"
+  },
+  {
+    "name": "Body Weight odd",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Body Weight",
+      "(Every Odd day) ___",
+      "磅體重",
+      "(單數日)___"
+    ],
+    "color": "rgb(247,207,252)"
+  },
+  {
+    "name": "Body Weight even",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Body Weight",
+      "(Every Even day) ___",
+      "磅體重",
+      "(雙數日)___"
+    ],
+    "color": "rgb(247,207,252)"
+  },
+  {
+    "name": "Save Stool",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Save Stool", "for Investigation", "保留大便標本", ""],
+    "color": "rgb(247,207,252)"
+  },
+  {
+    "name": "Save Urine inspect",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Save Urine", "for Inspection", "保留小便觀察", ""],
+    "color": "rgb(247,207,252)"
+  },
+  {
+    "name": "Save Urine invest",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Save Urine", "for Investigation", "保留小便標本", ""],
+    "color": "rgb(247,207,252)"
+  },
+  {
+    "name": "Save Sputum inspect",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Save Sputum", "for Inspection", "保留痰觀察", ""],
+    "color": "rgb(247,207,252)"
+  },
+  {
+    "name": "Save Sputum invest",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Save Sputum", "for Investigation", "保留痰標本", ""],
+    "color": "rgb(247,207,252)"
+  },
+  {
+    "name": "Save 24h urine",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Save 24 hours urine",
+      "From____to____",
+      "保留二十四小時小便",
+      "由____至____"
+    ],
+    "color": "rgb(247,207,252)"
+  },
+  {
+    "name": "Save 24h stool",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Save 24 hours stool",
+      "From____to____",
+      "保留二十四小時大便",
+      "由____至____"
+    ],
+    "color": "rgb(247,207,252)"
+  },
+  {
+    "name": "Weight Napkin",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Weight Napkin", "磅片"],
+    "color": "rgb(247,207,252)"
+  },
+  {
+    "name": "Home Leave",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Home Leave", "From____To____", "暫時離院", "由____至____"],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Contact NIC",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Contact", "nurse in-charge", "家屬請找護士", ""],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "To Invest/OP",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["To Investigation / Operation", "正進行檢查或手術"],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Suction PRN",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Suction", "PRN", "抽痰", "(需要時)"],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Ryle's Tube",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Ryle's Tube Aspiration",
+      "Every ____ hr(s)",
+      "反抽鼻胃管：",
+      "每 _____ 小時"
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Impair/Poor Vision both",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Impair/Poor Vision",
+      "Both Eyes",
+      "視力不佳",
+      "雙眼__視力不佳"
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Impair/Poor Vision left",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Impair/Poor Vision",
+      "Left Eye",
+      "視力不佳",
+      "左眼__視力不佳"
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Impair/Poor Vision right",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Impair/Poor Vision",
+      "Right Eye",
+      "視力不佳",
+      "右眼__視力不佳"
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Impair/Poor Hearing both",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Impair/Poor Hearing",
+      "Both Ears",
+      "聽力不佳",
+      "雙耳__聽力不佳"
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Impair/Poor Hearing left",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Impair/Poor Hearing",
+      "Left Ear",
+      "聽力不佳",
+      "左耳__聽力不佳"
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Impair/Poor Hearing right",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Impair/Poor Hearing",
+      "Right Ear",
+      "聽力不佳",
+      "右耳__聽力不佳"
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Pending Diaper",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Pending Diaper", "from Relative", "請家屬", "準備尿片"],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Patient fever",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Patient fever",
+      "Do not use blankets",
+      "病人發燒",
+      "請勿蓋毯"
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Abdominal Drainage Till Dry",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Abdominal Drainage Till Dry",
+      "(10g Albumin/L Ascitic Fluid drained)",
+      "肚水引流中",
+      ""
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Abdominal Drainage 1L/day",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Abdominal Drainage 1L/day",
+      "(10g Albumin/L Ascitic Fluid drained)",
+      "肚水引流中",
+      ""
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Abdominal Drainage ____L/day",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Abdominal Drainage ____L/day",
+      "(10g Albumin/L Ascitic Fluid drained)",
+      "肚水引流中",
+      ""
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Pleural Drainage Till Dry",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Pleural Drainage Till Dry",
+      "(10g Albumin/L Ascitic Fluid drained)",
+      "肺水引流中",
+      ""
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Pleural Drainage 1L/day",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Pleural Drainage 1L/day",
+      "(10g Albumin/L Ascitic Fluid drained)",
+      "肺水引流中",
+      ""
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "Pleural Drainage ____L/day",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": [
+      "Pleural Drainage ____L/day",
+      "(10g Albumin/L Ascitic Fluid drained)",
+      "肺水引流中",
+      ""
+    ],
+    "color": "rgb(235,245,255)"
+  },
+  {
+    "name": "SUR",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["SUR"],
+    "color": "rgb(195,197,189)"
+  },
+  {
+    "name": "pedi",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Pediatric"],
+    "color": "rgb(195,197,189)"
+  },
+  {
+    "name": "gynae",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Gynaecology"],
+    "color": "rgb(195,197,189)"
+  },
+  {
+    "name": "geri",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Geriatric"],
+    "color": "rgb(195,197,189)"
+  },
+  {
+    "name": "ortho",
+    "imgDisplay": false,
+    "imgSrc": "",
+    "description": ["Orthopedics"],
+    "color": "rgb(195,197,189)"
+  }
+]

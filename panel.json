@@ -1,0 +1,207 @@
+[
+  {
+    "name": "PanelTabList",
+    "content": [
+      "Allergy Alert",
+      "Special Alert / Precaution",
+      " Isolation Precaution",
+      "Tracheostomy",
+      "O2 // NIV",
+      "Fall Prevention",
+      "Activity",
+      "No eating and drinking",
+      "Diet",
+      "Investigation",
+      "Miscellaneous",
+      "Team",
+      "Custom"
+    ]
+  },
+
+  {
+    "name": "AllergyList",
+    "content": [
+      "Drug Allery",
+      "Food Allergy",
+      "Drug & Food Allergy",
+      "ADVERSE DRUG REACTION",
+      "Component Allergy",
+      "ALLERGY to",
+      "G6PD deficiency"
+    ]
+  },
+
+  {
+    "name": "SpecialList",
+    "content": [
+      "SP",
+      "Same or Similar_Names of patient",
+      "No IMI_Puncture",
+      "No Arterial_Puncture",
+      "No Femoral_Puncture",
+      "No BP and Blood Taking on: Left_Arm",
+      "No BP and Blood Taking on: Right_Arm",
+      "No BP/Blood Taking/Set HB on Left leg_",
+      "No BP/Blood Taking/Set HB on Right leg_",
+      "Telemetry in Use Channel No.:",
+      "Cardiac Pacemaker",
+      "Implantable Cardioverter Defibrillator",
+      "No Abdominal Examinations",
+      "Beware of Drains",
+      "High Aspiration Risk",
+      "Keep INR </=",
+      "Keep INR >/="
+    ]
+  },
+
+  {
+    "name": "IsolateList",
+    "content": [
+      "Contact Precaution",
+      "Droplet Precaution",
+      "Airborne Precaution",
+      "Reverse Isolation",
+      "Hand washing with soap"
+    ]
+  },
+
+  {
+    "name": "TracheostomyList",
+    "content": [
+      "End Tracheostomy",
+      "Deflated Cuff Tracheostomy Tube cuff ( End )",
+      "Temporary Tracheostomy",
+      "Deflated Cuff Tracheostomy Tube cuff ( Temporary )"
+    ]
+  },
+
+  {
+    "name": "O2List",
+    "content": ["O2", "O2mask", "O2__-", "O2mark-", "Nocturnal NIV", "Try CPAP"]
+  },
+
+  { "name": "FallList", "content": ["High Fall Risk", "High Fracture Risk"] },
+
+  {
+    "name": "ActivityList",
+    "content": [
+      "Protective Restraint",
+      "Complete Bed Rest",
+      "Bed Rest",
+      "Prop Up",
+      "Sit Out",
+      "Sit up in Bed",
+      "Do Not Turn Left",
+      "Do Not Turn Right",
+      "Non Weight Bearing",
+      "Partial Weight Bearing",
+      "Full Weight Bearing",
+      "Walk under supervision",
+      "Lateral REcumbent left",
+      "Lateral REcumbent right",
+      "Prone Position",
+      "Lie flat"
+    ]
+  },
+
+  {
+    "name": "NoEatOrDrinkList",
+    "content": [
+      "Nil by Mouth",
+      "Except Medication",
+      "Sips of Water",
+      "After Midnight",
+      "After Light breakfast",
+      "After",
+      "Fasting Blood",
+      "Investigation",
+      "Allow water till 6am",
+      "Allow water till 9am",
+      "Only water allowed till",
+      "Bread & Water till 7am"
+    ]
+  },
+  {
+    "name": "DietList",
+    "content": [
+      "Strict I&O Chart",
+      "Balance Intake and Output",
+      "Keep Positive I/O",
+      "Oral Intake",
+      "Fluid Intake",
+      "Oral and Fluid Intake",
+      "Feeding under assistance",
+      "Feeding under supervision",
+      "Feeding under Assistance and supervision",
+      "Isolate Diet",
+      "Neutropenic Diet",
+      "Regular Diet",
+      "Soft Diet",
+      "Congee Diet",
+      "切絲餐",
+      "D糊餐",
+      "DAT",
+      "NG Tube Feeding__ml",
+      "NG Tube Feeding",
+      "Low Salt Diet",
+      "凝固粉 (per ____ml)"
+    ]
+  },
+
+  {
+    "name": "InvestList",
+    "content": [
+      "Daily Body Weight",
+      "Body Weight odd",
+      "Body Weight even",
+      "Save Stool",
+      "Save Urine inspect",
+      "Save Urine invest",
+      "Save Sputum inspect",
+      "Save Sputum invest",
+      "Save 24h urine",
+      "Save 24h stool",
+      "Weight Napkin"
+    ]
+  },
+  {
+    "name": "MiscellaneousList",
+    "content": [
+      "Home Leave",
+      "Contact NIC",
+      "To Invest/OP",
+      "Suction PRN",
+      "Ryle's Tube",
+      "Impair/Poor Vision both",
+      "Impair/Poor Vision left",
+      "Impair/Poor Vision right",
+      "Impair/Poor Hearing both",
+      "Impair/Poor Hearing left",
+      "Impair/Poor Hearing right",
+      "Pending Diaper",
+      "Patient fever",
+      "Complete Removable Denture",
+      "Abdominal Drainage Till Dry",
+      "Abdominal Drainage 1L/day",
+      "Abdominal Drainage ____L/day",
+      "Pleural Drainage Till Dry",
+      "Pleural Drainage 1L/day",
+      "Pleural Drainage ____L/day"
+    ]
+  },
+
+  {
+    "name": "teamList",
+    "content": [
+      "SUR",
+      "MED",
+      "RESP",
+      "GI",
+      "CRS",
+      "pedi",
+      "gynae",
+      "geri",
+      "ortho"
+    ]
+  }
+]
